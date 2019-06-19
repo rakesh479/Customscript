@@ -1,4 +1,5 @@
 sudo su
+chmod +x Webapplication.sh
 #!/bin/bash
 sudo apt update && sudo apt upgrade
 sudo apt install apache2 -y
